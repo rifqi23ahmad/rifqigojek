@@ -6,10 +6,10 @@ echo "\e[96m_________________   WARNING !!!!!!!!  _________________ \n";
 echo "\e[96m          INI SCRIB GOJEK INI GRATIS BRO                \n";
 echo "\e[96m           JADI GUNAKANLAH DENGAN BIJAK                 \n";
 echo "\e[96m          SCRIB INI TIDAK DI JUAL BELIKAN               \n";
-echo "\e[96m              SUBCRIBE CHANNEL YOUTUTBE :               \n";
-echo "\e[96m                 RIDO RAGUSTI CHANEL                    \n";
+echo "\e[96m              SUBCRIBE MY CHANNEL YOUTUTBE :               \n";
+echo "\e[96m                 DIARY KANG OJOL                    \n";
 echo "\e[96m       BIAR BISA MAKIN SEMANGAT BIKIN KONTENNYA         \n";
-echo "\e[96m             * REPACK BY  : @Rhama338rhama *            \n";
+echo "\e[96m             * REPACK BY  : @RSQ *            \n";
 echo "\e[96m ********\e[95m".date('[d-m-Y] [H:i:s]')."\e[96m********\n";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
@@ -49,7 +49,7 @@ goto login;
 	return rtrim( $input, "\n" );
 ulang:
 echo "\n";
-echo "\e[96m ( SUBCRIBE CHANEL YOUTUBE : RIDO RAGUSTI CHANEL YA $input)        \n";
+echo "\e[96m ( YA $input)        \n";
 echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 // function change(){
         $nama = nama();
